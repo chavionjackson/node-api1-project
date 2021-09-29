@@ -5,5 +5,5 @@ const port = 5000;
 // START YOUR SERVER HERE
 
 server.listen(port, () => {
-  console.log("listening on", port);
+  console.log("Hi Chevy! We're listening on", port);
 });
